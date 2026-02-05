@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_documentary_gender_dynamics",
+  "title": "The Silent Ledger: A Roman Chronicle",
+  "tagline": "In the shadow of the law, a marriage negotiates the true price of power.",
+  "target_words": 70000,
+  "actual_words": 80743,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Negotiation of Patriarchy",
+    "Economic Power vs. Legal Authority",
+    "Public Performance vs. Private Reality",
+    "The Architecture of Social Survival"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Rain on the Via Appia",
+      "words": 3364
+    },
+    {
+      "ch": 2,
+      "title": "The Lion's Den",
+      "words": 3364
+    },
+    {
+      "ch": 3,
+      "title": "The Unwritten Contract",
+      "words": 3364
+    },
+    {
+      "ch": 4,
+      "title": "The Price of Patina",
+      "words": 3364
+    },
+    {
+      "ch": 5,
+      "title": "Whispers in the Atrium",
+      "words": 3364
+    },
+    {
+      "ch": 6,
+      "title": "A Dowry of Shame",
+      "words": 3364
+    },
+    {
+      "ch": 7,
+      "title": "The Broker's Gambit",
+      "words": 3364
+    },
+    {
+      "ch": 8,
+      "title": "Poetry and Ledger Lines",
+      "words": 3364
+    },
+    {
+      "ch": 9,
+      "title": "The Column Cracks",
+      "words": 3364
+    },
+    {
+      "ch": 10,
+      "title": "Clodia's Calculus",
+      "words": 3364
+    },
+    {
+      "ch": 11,
+      "title": "The Family Tomb",
+      "words": 3364
+    },
+    {
+      "ch": 12,
+      "title": "Public Face, Private War",
+      "words": 3364
+    },
+    {
+      "ch": 13,
+      "title": "The Debt Comes Due",
+      "words": 3364
+    },
+    {
+      "ch": 14,
+      "title": "Auction of Dignity",
+      "words": 3364
+    },
+    {
+      "ch": 15,
+      "title": "The Slave's Observation",
+      "words": 3364
+    },
+    {
+      "ch": 16,
+      "title": "Beyond the Palla",
+      "words": 3364
+    },
+    {
+      "ch": 17,
+      "title": "The Forum's Judgment",
+      "words": 3364
+    },
+    {
+      "ch": 18,
+      "title": "A Partnership Redrawn",
+      "words": 3364
+    },
+    {
+      "ch": 19,
+      "title": "The Mos Maiorum Myth",
+      "words": 3364
+    },
+    {
+      "ch": 20,
+      "title": "Cold Commerce",
+      "words": 3364
+    },
+    {
+      "ch": 21,
+      "title": "The Stabilizer's Burden",
+      "words": 3364
+    },
+    {
+      "ch": 22,
+      "title": "What the Law Cannot See",
+      "words": 3364
+    },
+    {
+      "ch": 23,
+      "title": "The Final Negotiation",
+      "words": 3364
+    },
+    {
+      "ch": 24,
+      "title": "The New Architecture",
+      "words": 3364
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene from the perspective of a household slave observing the silent power struggle between Lucius and Livia.",
+      "Compose a satirical poem that might be recited in Clodia's salon, commenting on the performance of traditional masculinity.",
+      "Draft a private letter from Livia to a (fictional) sister, explaining her strategy for saving the family.",
+      "Create a ledger entry in Clodia's records detailing her 'investment' in Lucius Vorenus and its expected social return."
+    ],
+    "technical": [
+      "Build an interactive model of the Roman familia as a power network, where legal authority (patria potestas) and economic influence are separate, dynamic nodes.",
+      "Develop a text analysis tool that identifies and visualizes the 'gaps' in dialogue where unspoken negotiations between characters occur."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Mary Beard",
+      "Robert Graves",
+      "Ursula K. Le Guin",
+      "Jane Austen"
+    ]
+  },
+  "cover_prompt": "A Roman man and woman stand in a private tablinum study, their bodies close yet rigidly formal, their hands not touching but positioned over a wax tablet and a heavy coin purse on a marble ledger desk, a silent negotiation frozen in the tension between legal contract and personal alliance. The scene is rich with contrasting details: austere legal scrolls and a single, vivid fresco of Venus on the wall, the harsh daylight from the atrium illuminating dust motes and the profound space between them, all within the intimate, architecturally precise confines of a wealthy domus. Rendered in the atmospheric and psychologically charged style of John William Waterhouse, with the classical precision of Lawrence Alma-Tadema, capturing the texture of draped wool stolas, polished marble, and warm candlelight against cool stone. Book cover framing, a centered but asymmetrical composition viewed from a low, dramatic angle that emphasizes the towering architecture and the intimate distance between the figures, their faces a mask of public composure over private calculation. Dramatic chiaroscuro lighting with a split color palette of warm amber candlelight on the figures against cool, shadowed slate and marble blues, highlighting the gold of the coins and the pale wax of the tablet. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
